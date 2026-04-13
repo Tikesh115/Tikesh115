@@ -21,9 +21,9 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/tikesh-sahu-34922b291" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/tikesh_115" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
-<div>
-  <img style="margin-right: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Tikesh115&" alt="Tikesh115" />
-  <img style="margin-left: 20px;" src="https://projectpokemon.org/images/normal-sprite/pikachu-kantocap.gif" width="120"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 100px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tikesh115&" alt="Tikesh115" />
+  <img src="https://projectpokemon.org/images/normal-sprite/pikachu-kantocap.gif" width="120"/>
 </div>
 
 </div>
