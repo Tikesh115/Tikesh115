@@ -21,6 +21,9 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/tikesh-sahu-34922b291" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/tikesh_115" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tikesh115&" alt="Tikesh115" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tikesh115&" alt="Tikesh115" /> 
+  ![pikachu-kantocap](https://github.com/user-attachments/assets/bc582702-1fab-45c1-84c1-179f7327fda2)
+</p>
 
 </div>
