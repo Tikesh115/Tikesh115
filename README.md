@@ -23,7 +23,7 @@
 
 <div>
   <img style="margin-right: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Tikesh115&" alt="Tikesh115" />
-  <img style="margin-right: 20px;" src="https://projectpokemon.org/images/normal-sprite/pikachu-kantocap.gif" width="120"/>
+  <img style="margin-left: 20px;" src="https://projectpokemon.org/images/normal-sprite/pikachu-kantocap.gif" width="120"/>
 </div>
 
 </div>
