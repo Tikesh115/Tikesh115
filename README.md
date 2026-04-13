@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Tikesh Sahu</h1>
+  <h1>Hi 👋, I'm Tikesh Sahu <img src="https://projectpokemon.org/images/normal-sprite/pikachu-kantocap.gif" width="120"/></h1>
 <p>I’m a CSE student with a strong passion for web development. I enjoy building responsive and user-friendly web apps using modern tools like Tailwind CSS, React Js etc.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -23,5 +23,4 @@
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tikesh115&" style="margin-right: 40px" alt="Tikesh115" />
-  <img src="https://projectpokemon.org/images/normal-sprite/pikachu-kantocap.gif" width="120"/>
 </div>
