@@ -22,8 +22,8 @@
 <a target="_blank" href="https://www.instagram.com/tikesh_115" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tikesh115&" alt="Tikesh115" />
-  <img src="https://projectpokemon.org/images/normal-sprite/pikachu-kantocap.gif" width="120"/>
+  <img style="margin-right: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Tikesh115&" alt="Tikesh115" />
+  <img style="margin-right: 20px;" src="https://projectpokemon.org/images/normal-sprite/pikachu-kantocap.gif" width="120"/>
 </div>
 
 </div>
